@@ -17,4 +17,10 @@ ________________________________________________________________________________
 [![My Skills](https://skillicons.dev/icons?i=cs,cpp,unity,unreal,blender,ps,ae,ai&theme=light)](https://github.com/coderaishya)
 
 
+_________________________________________________________________________________________________________________________________________________________________________
+
+### Web Development Skills:
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,ts,git,github,wordpress&theme=light)](https://github.com/coderaishya)
+
 
