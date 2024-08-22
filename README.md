@@ -21,6 +21,6 @@ ________________________________________________________________________________
 
 ### Web Development Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,ts,git,github,wordpress&theme=light)](https://github.com/coderaishya)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,git,github,wordpress&theme=light)](https://github.com/coderaishya)
 
 
