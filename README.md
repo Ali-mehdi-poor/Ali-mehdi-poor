@@ -15,6 +15,6 @@ ________________________________________________________________________________
 ### Game Development and 3D/2D Graphic Skills:
 
 [![My Skills](https://skillicons.dev/icons?i=cs,cpp,unity,unreal,blender,ps,ae,ai&theme=light)](https://github.com/coderaishya)
-Here are some ideas to get you started:
+
 
 
