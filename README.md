@@ -10,6 +10,7 @@ const myInfo = {
     surname: "mehdi poor",
     age: 21,
     startWorkingYear: 2015,
+    haveATeam: true,
     jobs: ["teacher","freelancer"],
     hobbies: ["mathematics","anime", "manga", "games", "movie"],
 }
