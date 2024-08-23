@@ -28,7 +28,8 @@ ________________________________________________________________________________
 
 ### Game Development and 3D/2D Graphic Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=cs,cpp,unity,unreal,blender,ps,ae,ai&theme=light)](https://github.com/wolferina)
+[![My Skills](https://skillicons.dev/icons?i=cs,cpp,unity,unreal,blender&theme=light)](https://github.com/wolferina)
+[![My Skills](https://skillicons.dev/icons?i=ps,ae,ai&theme=light)](https://github.com/wolferina)
 
 
 _________________________________________________________________________________________________________________________________________________________________________
