@@ -3,8 +3,22 @@
 
 _________________________________________________________________________________________________________________________________________________________________________
 
+```javascript
+const myInfo = {
+    username: "wolferina",
+    name: "ali",
+    surname: "mehdi poor",
+    age: 21,
+    startWorkingYear: 2015,
+    jobs: ["teacher","freelancer"],
+    hobbies: ["mathematics","anime", "manga", "games", "movie"],
+}
+```
+
+_________________________________________________________________________________________________________________________________________________________________________
+
 - fullstack Web Development Enthusiastic also Game Developer
-- 5+ yrs of Experience as Game Developer and (3D/2D) Designer 
+- 4+ yrs of Experience as Game Developer and (3D/2D) Designer 
 - and 3+ yrs as web developer
 - Bachelor's degree in Computer Engineering and desire to study a master's degree in Artificial Intelligence
 - Worked on Website development using Wordpress
@@ -21,6 +35,12 @@ ________________________________________________________________________________
 
 ### Web Development Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,git,github,wordpress&theme=light)](https://github.com/wolferina)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nextjs,git,github,php,wordpress,nodejs,express,nestjs,mongodb,mysql,figma,xd&theme=light)](https://github.com/wolferina)
 
+
+_________________________________________________________________________________________________________________________________________________________________________
+
+### Learning skills ...
+
+[![My Skills](https://skillicons.dev/icons?i=py,django,pytorch,qt&theme=light)](https://github.com/wolferina)
 
