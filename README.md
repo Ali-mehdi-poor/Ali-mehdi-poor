@@ -25,12 +25,17 @@ ________________________________________________________________________________
 
 ### Languages:
 
-[![My Skills](https://skillicons.dev/icons?i=js,php,python,c-sharp&theme=light)](https://github.com/wolferina)
+[![My Skills](https://skillicons.dev/icons?i=js,php,python,csharp&theme=light)](https://github.com/wolferina)
 
 _________________________________________________________________________________________________________________________________________________________________________
 
-Web
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,react,nextjs,mysql,wordpress,nodejs,express,mongodb&theme=light)](https://github.com/wolferina)
+### Web:
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,react,nextjs,wordpress,nodejs,express,mysql,mongodb&theme=light)](https://github.com/wolferina)
+
+_________________________________________________________________________________________________________________________________________________________________________
+
+### Game:
+[![My Skills](https://skillicons.dev/icons?i=unity,blender&theme=light)](https://github.com/wolferina)
 
 _________________________________________________________________________________________________________________________________________________________________________
 
