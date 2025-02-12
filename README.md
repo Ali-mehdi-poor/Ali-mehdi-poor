@@ -23,11 +23,14 @@ ________________________________________________________________________________
 - MERN stack learner
 _________________________________________________________________________________________________________________________________________________________________________
 
-### Web Development Skills:
+### Languages:
 
-[![My Skills](https://skillicons.dev/icons?i=js,php,bootstrap,tailwind,react,nextjs,mysql&theme=light)](https://github.com/wolferina)
-[![My Skills](https://skillicons.dev/icons?i=wordpress,nodejs,express,mongodb&theme=light)](https://github.com/wolferina)
+[![My Skills](https://skillicons.dev/icons?i=js,php,python,c-sharp&theme=light)](https://github.com/wolferina)
 
+_________________________________________________________________________________________________________________________________________________________________________
+
+Web
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,react,nextjs,mysql,wordpress,nodejs,express,mongodb&theme=light)](https://github.com/wolferina)
 
 _________________________________________________________________________________________________________________________________________________________________________
 
