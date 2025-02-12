@@ -27,19 +27,11 @@ ________________________________________________________________________________
 
 [![My Skills](https://skillicons.dev/icons?i=js,php,py,cs&theme=light)](https://github.com/wolferina)
 
-_________________________________________________________________________________________________________________________________________________________________________
 
 ### Web:
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind&theme=light)](https://github.com/wolferina)
-[![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs&theme=light)](https://github.com/wolferina)
-[![My Skills](https://skillicons.dev/icons?i=wordpress,mysql&theme=light)](https://github.com/wolferina)
-
-
-_________________________________________________________________________________________________________________________________________________________________________
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind&theme=light)](https://github.com/wolferina) <br />
+[![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs&theme=light)](https://github.com/wolferina) <br />
+[![My Skills](https://skillicons.dev/icons?i=wordpress,mysql&theme=light)](https://github.com/wolferina) <br />
 
 ### Game:
 [![My Skills](https://skillicons.dev/icons?i=unity,blender&theme=light)](https://github.com/wolferina)
-
-_________________________________________________________________________________________________________________________________________________________________________
-
-
