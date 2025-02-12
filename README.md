@@ -25,7 +25,7 @@ ________________________________________________________________________________
 
 ### Languages:
 
-[![My Skills](https://skillicons.dev/icons?i=js,php,python,csharp&theme=light)](https://github.com/wolferina)
+[![My Skills](https://skillicons.dev/icons?i=js,php,py,cs&theme=light)](https://github.com/wolferina)
 
 _________________________________________________________________________________________________________________________________________________________________________
 
