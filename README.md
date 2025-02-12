@@ -15,6 +15,14 @@ const myInfo = {
 
 _________________________________________________________________________________________________________________________________________________________________________
 
+- fullstack Web Development Enthusiastic
+- and 3+ yrs as web developer
+- 2+ yrs Game Developing
+- Bachelor's degree in Computer Engineering and desire to study a master's degree in Artificial Intelligence
+- Worked on Website development using Wordpress
+- MERN stack learner
+_________________________________________________________________________________________________________________________________________________________________________
+
 ### Languages:
 
 [![My Skills](https://skillicons.dev/icons?i=js,php,py,cs&theme=light)](https://github.com/wolferina)
@@ -32,13 +40,4 @@ ________________________________________________________________________________
 
 Soon.....
 
-_________________________________________________________________________________________________________________________________________________________________________
-
-- fullstack Web Development Enthusiastic
-- and 3+ yrs as web developer
-- 2+ yrs Game Developing
-- Bachelor's degree in Computer Engineering and desire to study a master's degree in Artificial Intelligence
-- Worked on Website development using Wordpress
-- MERN stack learner
-_________________________________________________________________________________________________________________________________________________________________________
 
