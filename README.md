@@ -30,8 +30,10 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________________________________________________________________________________
 
 ### Web:
-# [![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs&theme=light)](https://github.com/wolferina)
-# [![My Skills](https://skillicons.dev/icons?i=nextjs,wordpress,mysql,bootstrap,tailwind,&theme=light)](https://github.com/wolferina)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,&theme=light)](https://github.com/wolferina)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs&theme=light)](https://github.com/wolferina)
+[![My Skills](https://skillicons.dev/icons?i=wordpress,mysql&theme=light)](https://github.com/wolferina)
+
 
 _________________________________________________________________________________________________________________________________________________________________________
 
