@@ -25,10 +25,9 @@ ________________________________________________________________________________
 
 ### Web Development Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=js,bootstrap,tailwind,react,nextjs&theme=light)](https://github.com/wolferina)
-[![My Skills](https://skillicons.dev/icons?i=git,github,php&theme=light)](https://github.com/wolferina)
-[![My Skills](https://skillicons.dev/icons?i=wordpress,nodejs,express,nestjs,mongodb&theme=light)](https://github.com/wolferina)
-[![My Skills](https://skillicons.dev/icons?i=mysql,figma,xd&theme=light)](https://github.com/wolferina)
+[![My Skills](https://skillicons.dev/icons?i=js,php,bootstrap,tailwind,react,nextjs,mysql&theme=light)](https://github.com/wolferina)
+[![My Skills](https://skillicons.dev/icons?i=wordpress,nodejs,express,mongodb&theme=light)](https://github.com/wolferina)
+
 
 _________________________________________________________________________________________________________________________________________________________________________
 
