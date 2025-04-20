@@ -32,8 +32,5 @@ ________________________________________________________________________________
 [![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs&theme=light)](https://github.com/Ali-mehdi-poor) <br />
 [![My Skills](https://skillicons.dev/icons?i=wordpress,mysql&theme=light)](https://github.com/Ali-mehdi-poor) <br />
 
-### Ai:
-
-Soon.....
 
 
