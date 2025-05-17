@@ -17,7 +17,7 @@ ________________________________________________________________________________
 
 - fullstack Web Development Enthusiastic
 - and 3+ yrs as web developer
-- Bachelor's degree in Computer Engineering and desire to study a master's degree in Artificial Intelligence
+- Bachelor's degree in Computer Engineering and desire to study a master's degree in Security 
 - Worked on Website development using Wordpress
 - MERN stack learner
 _________________________________________________________________________________________________________________________________________________________________________
