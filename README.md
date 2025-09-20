@@ -21,11 +21,11 @@
 *React, TypeScript, JavaScript, HTML5, CSS3, TailwindCSS – Frontend & UI/UX*
 
 #### Backend  
-[![Backend](https://skillicons.dev/icons?i=nestjs,nodejs,express,php,mysql,mongodb&theme=dark)](https://github.com/Ali-mehdi-poor)  
+[![Backend](https://skillicons.dev/icons?i=nestjs,nodejs,express,php,mysql,mongodb&wordpress&theme=dark)](https://github.com/Ali-mehdi-poor)  
 *NestJS, Node.js, Express, PHP, MySQL, MongoDB – APIs & Server-side logic*
 
 #### Tools & Others  
-[![Tools](https://skillicons.dev/icons?i=git,linux,docker,nginx,postman,wordpress&theme=dark)](https://github.com/Ali-mehdi-poor)  
+[![Tools](https://skillicons.dev/icons?i=git,linux,docker,nginx,postman&theme=dark)](https://github.com/Ali-mehdi-poor)  
 *Git, Linux, Docker, Nginx, Postman, WordPress – Dev Tools & Deployment*
 
 ---
