@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Ali Mehdi Poor</h1>
+<h1 align="center">👋 Hi, I'm Ali Mehdi Pour</h1>
 <h3 align="center">🚀 Full-Stack Web Developer | NestJS & MERN | DevOps </h3>
 
 <p align="center">
