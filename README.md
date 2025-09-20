@@ -1,36 +1,40 @@
-### Hello stranger!
-_________________________________________________________________________________________________________________________________________________________________________
+<h1 align="center">👋 Hi, I'm Ali Mehdi Poor</h1>
+<h3 align="center">🚀 Full-Stack Web Developer | React & NestJS Specialist</h3>
 
-```javascript
-const myInfo = {
-    name: "ali",
-    surname: "mehdi poor",
-    age: 21,
-    startWorkingYear: 2015,
-    haveATeam: true,
-    jobs: ["teacher","freelancer"],
-    hobbies: ["mathematics","anime", "manga", "games", "movie"],
-}
-```
+---
 
-_________________________________________________________________________________________________________________________________________________________________________
+### 👨‍💻 About Me
+- 💻 Full-Stack Developer focused on **React** (frontend) & **NestJS** (backend)  
+- 🌍 Open to collaboration on **web applications & enterprise projects**  
 
-- fullstack Web Development Enthusiastic
-- and 3+ yrs as web developer
-- Bachelor's degree in Computer Engineering and desire to study a master's degree in Security 
-- Worked on Website development using Wordpress
-- MERN stack learner
-_________________________________________________________________________________________________________________________________________________________________________
+---
 
-### Languages:
+### 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,php,py&theme=light)](https://github.com/Ali-mehdi-poor)
+#### Frontend  
+[![My Skills](https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind&theme=light)](https://github.com/Ali-mehdi-poor)
 
+#### Backend  
+[![My Skills](https://skillicons.dev/icons?i=nestjs,nodejs,express,php,mysql,mongodb&theme=light)](https://github.com/Ali-mehdi-poor)
 
-### Web:
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,jquery&theme=light)](https://github.com/Ali-mehdi-poor) <br />
-[![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs&theme=light)](https://github.com/Ali-mehdi-poor) <br />
-[![My Skills](https://skillicons.dev/icons?i=wordpress,mysql&theme=light)](https://github.com/Ali-mehdi-poor) <br />
+#### Tools & Others  
+[![My Skills](https://skillicons.dev/icons?i=git,linux,docker,nginx,postman&theme=light)](https://github.com/Ali-mehdi-poor)
 
+---
 
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ali-mehdi-poor&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-mehdi-poor&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🌍 Connect with Me
+<p align="center">
+  <a href="https://github.com/Ali-mehdi-poor"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:ali113820619@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
