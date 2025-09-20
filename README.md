@@ -12,13 +12,13 @@
 ### 🛠️ Tech Stack
 
 #### Frontend  
-[![My Skills](https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind&theme=light)](https://github.com/Ali-mehdi-poor)
+[![My Skills](https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind&theme=dark)](https://github.com/Ali-mehdi-poor)
 
 #### Backend  
-[![My Skills](https://skillicons.dev/icons?i=nestjs,nodejs,express,php,mysql,mongodb&theme=light)](https://github.com/Ali-mehdi-poor)
+[![My Skills](https://skillicons.dev/icons?i=nestjs,nodejs,express,php,mysql,mongodb&theme=dark)](https://github.com/Ali-mehdi-poor)
 
 #### Tools & Others  
-[![My Skills](https://skillicons.dev/icons?i=git,linux,docker,nginx,swagger,postman,wordpress&theme=light)](https://github.com/Ali-mehdi-poor)
+[![My Skills](https://skillicons.dev/icons?i=git,linux,docker,nginx,postman,wordpress&theme=dark)](https://github.com/Ali-mehdi-poor)
 
 ---
 
@@ -37,4 +37,5 @@
 <p align="center">
   <a href="https://github.com/Ali-mehdi-poor"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="mailto:ali113820619@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://t.me/GoodVirous"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
