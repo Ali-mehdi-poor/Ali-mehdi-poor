@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Ali Mehdi Poor</h1>
-<h3 align="center">🚀 Full-Stack Web Developer | React & NestJS Specialist</h3>
+<h3 align="center">🚀 Full-Stack Web Developer | NestJS & MERN | DevOps </h3>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20And%20Welcome%20My%20Github%20Stragner&fontSize=30&fontColor=fff" alt="Banner"/>
