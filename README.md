@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full-Stack Web Developer | React & NestJS Specialist</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20And%20Welcome%20Stragner&fontSize=30&fontColor=fafafa" alt="Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20\&%20Welcome%20Stragner&fontSize=30&fontColor=fafafa" alt="Banner"/>
 </p>
 
 ---
@@ -27,6 +27,15 @@
 #### Tools & Others  
 [![Tools](https://skillicons.dev/icons?i=git,linux,docker,nginx,postman,wordpress&theme=dark)](https://github.com/Ali-mehdi-poor)  
 *Git, Linux, Docker, Nginx, Postman, WordPress – Dev Tools & Deployment*
+
+---
+
+### 📚 Currently Learning
+- 🔹 Advanced **NestJS** patterns & microservices  
+- 🔹 **Next.js** & React Server Components  
+- 🔹 **TypeScript** deep dive  
+- 🔹 Modern **DevOps & Cloud** practices  
+- 🔹 **Artificial Intelligence / AI**
 
 ---
 
