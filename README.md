@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full-Stack Web Developer | React & NestJS Specialist</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Full-Stack%Web%Developer%|%React%&%NestJS%Specialist&fontSize=30&fontColor=fff" alt="Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello&And&Welcome&Stragner&fontSize=30&fontColor=fafafa" alt="Banner"/>
 </p>
 
 ---
