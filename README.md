@@ -18,7 +18,7 @@
 [![My Skills](https://skillicons.dev/icons?i=nestjs,nodejs,express,php,mysql,mongodb&theme=light)](https://github.com/Ali-mehdi-poor)
 
 #### Tools & Others  
-[![My Skills](https://skillicons.dev/icons?i=git,linux,docker,nginx,postman&theme=light)](https://github.com/Ali-mehdi-poor)
+[![My Skills](https://skillicons.dev/icons?i=git,linux,docker,nginx,swagger,postman,wordpress&theme=light)](https://github.com/Ali-mehdi-poor)
 
 ---
 
