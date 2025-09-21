@@ -17,13 +17,13 @@
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=8000&pause=1000&width=435&lines=Teach+Stack%3A)](https://github.com/ali-mehdi-pour/)
 
 #### Frontend  
-[![React](https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind&theme=dark)](https://github.com/Ali-mehdi-poor)  
+[![React](https://skillicons.dev/icons?i=react,ts,js,jquery,html,css,,sass,tailwind,bootstrap&theme=dark)](https://github.com/Ali-mehdi-poor)  
 
 #### Backend  
-[![Backend](https://skillicons.dev/icons?i=nestjs,nodejs,express,php,mysql,mongodb,wordpress&theme=dark)](https://github.com/Ali-mehdi-poor)  
+[![Backend](https://skillicons.dev/icons?i=nestjs,nodejs,express,php,mysql,postgres,sqlite,mongodb,wordpress&theme=dark)](https://github.com/Ali-mehdi-poor)  
 
 #### Tools & Others  
-[![Tools](https://skillicons.dev/icons?i=git,linux,docker,nginx,postman,vscode&theme=dark)](https://github.com/Ali-mehdi-poor)  
+[![Tools](https://skillicons.dev/icons?i=py,git,linux,docker,nginx,postman,vscode,vite&theme=dark)](https://github.com/Ali-mehdi-poor)  
 
 ---
 
