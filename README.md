@@ -18,15 +18,12 @@
 
 #### Frontend  
 [![React](https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind&theme=dark)](https://github.com/Ali-mehdi-poor)  
-*React, TypeScript, JavaScript, HTML5, CSS3, TailwindCSS – Frontend & UI/UX*
 
 #### Backend  
 [![Backend](https://skillicons.dev/icons?i=nestjs,nodejs,express,php,mysql,mongodb,wordpress&theme=dark)](https://github.com/Ali-mehdi-poor)  
-*NestJS, Node.js, Express, PHP, MySQL, MongoDB, WordPress – APIs & Server-side logic*
 
 #### Tools & Others  
-[![Tools](https://skillicons.dev/icons?i=git,linux,docker,nginx,postman&theme=dark)](https://github.com/Ali-mehdi-poor)  
-*Git, Linux, Docker, Nginx, Postman – Dev Tools & Deployment*
+[![Tools](https://skillicons.dev/icons?i=git,linux,docker,nginx,postman,vscode&theme=dark)](https://github.com/Ali-mehdi-poor)  
 
 ---
 
