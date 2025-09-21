@@ -7,14 +7,14 @@
 
 ---
 
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&width=435&lines=About+Me%3A)](https://github.com/ali-mehdi-pour/)
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=8000&pause=1000&width=435&lines=About+Me%3A)](https://github.com/ali-mehdi-pour/)
 - 💻 Full-Stack Developer focused on **React** (frontend) & **NestJS** (backend)  
 - 🌐 Experienced in building **scalable web apps & APIs**  
 - 🌍 Open to collaboration on **web applications & enterprise projects**  
 
 ---
 
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&width=435&lines=Teach+Stack%3A)](https://github.com/ali-mehdi-pour/)
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=8000&pause=1000&width=435&lines=Teach+Stack%3A)](https://github.com/ali-mehdi-pour/)
 
 #### Frontend  
 [![React](https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind&theme=dark)](https://github.com/Ali-mehdi-poor)  
@@ -27,7 +27,7 @@
 
 ---
 
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&width=435&lines=Currently+Learning%3A)](https://github.com/ali-mehdi-pour/)
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=8000&pause=1000&width=435&lines=Currently+Learning%3A)](https://github.com/ali-mehdi-pour/)
 - 🔹 Advanced **NestJS** patterns & microservices  
 - 🔹 **Next.js** & React Server Components  
 - 🔹 **TypeScript** deep dive  
@@ -36,7 +36,7 @@
 
 ---
 
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&width=435&lines=GitHub+Stats%3A)](https://github.com/ali-mehdi-pour/)
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=8000&pause=1000&width=435&lines=GitHub+Stats%3A)](https://github.com/ali-mehdi-pour/)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ali-mehdi-pour&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ali-mehdi-pour&theme=tokyonight&hide_border=true" width="49%" />
@@ -44,7 +44,7 @@
 
 ---
 
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&width=435&lines=Connect+with+Me%3A)](https://github.com/ali-mehdi-pour/)
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=8000&pause=1000&width=435&lines=Connect+with+Me%3A)](https://github.com/ali-mehdi-pour/)
 <p align="center">
   <a href="https://github.com/Ali-mehdi-poor"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="mailto:ali113820619@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
