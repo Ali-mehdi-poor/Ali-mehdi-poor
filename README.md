@@ -24,8 +24,7 @@
 
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=8000&pause=500&width=435&lines=Currently+Learning%3A)](https://github.com/ali-mehdi-pour/)
 - 🔹 Advanced **NestJS** patterns & microservices  
-- 🔹 **Next.js** & React Server Components  
-- 🔹 **TypeScript** deep dive  
+- 🔹 **Next.js** & React Server Components 
 - 🔹 Modern **DevOps & Cloud** practices  
 - 🔹 **Artificial Intelligence / AI**
 
