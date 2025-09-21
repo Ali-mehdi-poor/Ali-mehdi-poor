@@ -5,8 +5,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20And%20Welcome%20To%20My%20Github%20Page&fontSize=30&fontColor=fff" alt="Banner"/>
 </p>
 
----
-
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=8000&pause=500&width=435&lines=About+Me%3A)](https://github.com/ali-mehdi-pour/)
 - 💻 Full-Stack Developer focused on **React** (frontend) & **NestJS** (backend)  
 - 🌐 Experienced in building **scalable web apps & APIs**  
