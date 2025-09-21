@@ -23,7 +23,7 @@
 [![Backend](https://skillicons.dev/icons?i=nestjs,nodejs,express,php,mysql,postgres,sqlite,mongodb,wordpress&theme=dark)](https://github.com/Ali-mehdi-poor)  
 
 #### Tools & Others  
-[![Tools](https://skillicons.dev/icons?i=py,git,linux,docker,nginx,postman,vscode,vite&theme=dark)](https://github.com/Ali-mehdi-poor)  
+[![Tools](https://skillicons.dev/icons?i=py,git,linux,docker,nginx,postman,vscode,vite,vim,figma&theme=dark)](https://github.com/Ali-mehdi-poor)  
 
 ---
 
