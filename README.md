@@ -17,7 +17,7 @@
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=8000&pause=1000&width=435&lines=Teach+Stack%3A)](https://github.com/ali-mehdi-pour/)
 
 #### Frontend  
-[![React](https://skillicons.dev/icons?i=react,ts,js,jquery,html,css,,sass,tailwind,bootstrap&theme=dark)](https://github.com/Ali-mehdi-poor)  
+[![React](https://skillicons.dev/icons?i=react,ts,js,jquery,html,css,sass,redux,tailwind,bootstrap&theme=dark)](https://github.com/Ali-mehdi-poor)  
 
 #### Backend  
 [![Backend](https://skillicons.dev/icons?i=nestjs,nodejs,express,php,mysql,postgres,sqlite,mongodb,wordpress&theme=dark)](https://github.com/Ali-mehdi-poor)  
