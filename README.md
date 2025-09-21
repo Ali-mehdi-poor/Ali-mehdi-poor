@@ -41,8 +41,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ali-mehdi-poor&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-mehdi-poor&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ali-mehdi-pour&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ali-mehdi-pour&theme=tokyonight&hide_border=true" width="49%" />
 </p>
 
 ---
