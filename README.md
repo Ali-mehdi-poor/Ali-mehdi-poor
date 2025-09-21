@@ -7,7 +7,7 @@
 
 ---
 
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&repeat=false&width=435&lines=About+Me%3A)](https://github.com/ali-mehdi-pour/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&repeat=false&width=435&lines=About+Me%3A)](https://github.com/ali-mehdi-pour/)
 - 💻 Full-Stack Developer focused on **React** (frontend) & **NestJS** (backend)  
 - 🌐 Experienced in building **scalable web apps & APIs**  
 - 🌍 Open to collaboration on **web applications & enterprise projects**  
